@@ -1,6 +1,7 @@
 # Title 
 
 # Description
+This project aims to ------
 
 # Dataset
 It is a list of 110,527 appointments made in Brazil. The variables disscused are related to the patients 
