@@ -33,15 +33,17 @@ Key Features in the Dataset:
 # Analysis
 
 # How to Run
+## Codes and recourses used:
 
 # Dependencies
 The following are the list of libraries used in this project. 
+Data Manipulation:packages like pandas and numpy that are used to handle and import datasets.
 - import pandas as pd: pandas was used for data manipulation, like loading and cleaning datasets.
-- import numpy as np
-helps with numerical operations and handling large arrays. 
-- import matplotlib.pyplot as plt
+- import numpy as np:helps with numerical operations and handling large arrays. 
+Data Visualization:Add packages that were used to plot graphs for analysis or to comprehend matplotlib and seaborn.
+- import matplotlib.pyplot as plt:
 matplotlib was used to create basic visualizations like bar charts and histograms
-- import seaborn as sns
+- import seaborn as sns:
 builds more advanced and aesthetically pleasing plots, such as heatmaps and pair plots, to explore relationships in the data. Together, these libraries enable efficient analysis and visualization of medical appointment no-shows.
 
 Project Title: A clear title for your project.
