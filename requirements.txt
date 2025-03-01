@@ -1,1 +1,5 @@
-
+import pandas as pd                 #For data manipulation 
+import numpy as np
+import matplotlib.pyplot as plt     #For data visualization 
+import matplotlib
+import seaborn as sns               #For data visualization and statistics 
