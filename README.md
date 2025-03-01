@@ -36,8 +36,7 @@ Key Features in the Dataset:
 
 # Dependencies
 The following are the list of libraries used in this project. 
-- import pandas as pd
-pandas was used for data manipulation, like loading and cleaning datasets.
+- import pandas as pd: pandas was used for data manipulation, like loading and cleaning datasets.
 - import numpy as np
 helps with numerical operations and handling large arrays. 
 - import matplotlib.pyplot as plt
