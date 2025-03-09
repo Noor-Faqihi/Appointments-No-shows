@@ -1,5 +1,7 @@
-# Title 
-No-Show Appointments: Analysis & Prediction
+<img alt="Cool Cat" src = "C:\Users\noorf\Downloads\coolcat.gif" width = 300> </img> 
+
+# No-Show, No-Go! Unraveling the Mystery of Missed Appointments. 
+No-Show Appointments: Exploratory data analysis project. 
 # Description
 This project focuses on analyzing and predicting medical appointment no-shows using Python. No-shows can lead to inefficiencies in healthcare, increased costs, and longer wait times for patients. The goal of this project is to identify key factors influencing patient attendance and develop a data-driven approach to minimize missed appointments.
 
