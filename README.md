@@ -1,4 +1,4 @@
-<img alt="Cool Cat" src = "C:\Users\noorf\Downloads\coolcat.gif" width = 300> </img> 
+<img alt="Cool Cat" src = "C:\Users\noorf\Downloads\no-show-patients.jpg" width = 300> </img> 
 
 # No-Show, No-Go! Unraveling the Mystery of Missed Appointments. 
 No-Show Appointments: Exploratory data analysis project. 
