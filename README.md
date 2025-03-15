@@ -1,7 +1,8 @@
-<img alt="Cool Cat" src = "C:\Users\noorf\Downloads\no-show-patients.jpg" width = 300> </img> 
+![no-show-patients](https://github.com/user-attachments/assets/5fd8d457-284e-43be-a008-5461cb8961e3)
 
 # No-Show, No-Go! Unraveling the Mystery of Missed Appointments. 
 No-Show Appointments: Exploratory data analysis project. 
+
 # Description
 This project focuses on analyzing and predicting medical appointment no-shows using Python. No-shows can lead to inefficiencies in healthcare, increased costs, and longer wait times for patients. The goal of this project is to identify key factors influencing patient attendance and develop a data-driven approach to minimize missed appointments.
 
